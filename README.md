@@ -27,6 +27,10 @@ Documentation:
 
 ## Changelog
 
+### 1.0.7 7.07.2020
+Test andere Webadresse 
+
+
 ### 1.0.6 28.06.2020
 * (Black-Thunder) implemented queue mechanism for sending requests to cloud
 * (Black-Thunder) disabled adapter autostart after installation
